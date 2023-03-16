@@ -1,2 +1,2 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_music_player_music_player,music_player.music_player,model_music_player_music_player,,1,1,1,1
+access_music_player_music_player,music_player.music_player,model_music_player_music_player,base.group_user,1,1,1,1
